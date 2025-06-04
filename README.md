@@ -1,41 +1,79 @@
-# 👋 Hi there, I'm Ahmed
+# 👋 Hello, I'm Ahmed-Yaseen99!
 
-Welcome to my GitHub profile!
-
-I'm a passionate developer who loves building efficient, practical, and user-friendly applications. Whether it's writing clean code, debugging UI quirks, or automating workflows, I'm always up for a challenge and constantly looking to learn something new.
+Welcome to my GitHub profile! I’m a passionate Computer Engineer and a professional GUI Desktop Applications Developer, specializing in robust, user-friendly software solutions.
 
 ---
 
-## 🚀 Projects I’ve Made
+## 💼 About Me
 
-### 🔧 [Template for inno installer](https://github.com/Ahmed-Yaseen99/Inno-Installer-Template)
-### 🔧 [Website for a Honey Shop](https://github.com/Ahmed-Yaseen99/Honey-shop-Website)
-### 🔧 [DYOONI](https://github.com/Ahmed-Yaseen99/DYOONI)
-### 🔧 [A3MALI](https://github.com/Ahmed-Yaseen99/A3MALI)
-### 🔧 [License Generator Tool](https://github.com/Ahmed-Yaseen99/License-Generator)
-### 🔧 [MA3HDI](https://github.com/Ahmed-Yaseen99/MA3HDI)
-### 🔧 [ETD - Eye Test DataBase](https://github.com/Ahmed-Yaseen99/ETD)
-### 🔧 [MID - Medical Information DataBase](https://github.com/Ahmed-Yaseen99/MID)
+- 🖥️ **Profession:** Computer Engineer & IT Specialist  
+- 👨‍💻 **Role:** GUI Desktop Apps Developer, IT Solutions/ISP Engineer  
+- 🏢 **Founder:** [PyPie Studio](https://instagram.com/pypiestudio) — My own software programming company  
+- 🏢 **Work:** IT Solutions & Internet Provider Company  
+- 🌐 **Location:** Iraq
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** C#, C++/CLI, Python, HTML, XAML, CSS
-- **Tools:** Visual Studio, LiteDB, Json, XML, Git, GitHub
-- **Areas of interest:** Desktop App Development, GUI Design, Encrypion & Decryption, HTML, automation, Script Tools, Hardware & Software Engineering, Network Engineering  (e.g., CISCO & MikroTek)
-
----
-
-## 😺 Fun fact
-My cat **Tom** often sits on my mouse or desk while I code. He’s my furry QA team. 🐾
-
----
-
-## 📫 Get in touch
-
-Feel free to reach out if you want to a custom program, collaborate or chat tech!
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteDB-4C8CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</p>
 
 ---
 
-Thanks for stopping by! ⭐
+## 🚀 What I Build
+
+- 🗃️ **Database Management Systems** for schools, clinics, and businesses  
+- 🔑 **License Key Generators** & software activation tools  
+- 🖱️ **GUI Desktop Apps** (Windows, C#/C++/CLI/.NET/WinForms)  
+- 🌐 **Websites** with Blazor, C#, HTML & CSS  
+- 🧩 **Console Tools:** Calculators, Receipt Systems, Games, and more
+
+---
+
+## 🌟 Project Highlights
+
+- **[MA3HDI-V2](https://github.com/Ahmed-Yaseen99/MA3HDI-V2)** — New generation school/teaching institute database management software (C#)
+- **[IP-Manager](https://github.com/Ahmed-Yaseen99/IP-Manager)** — IP management for network devices & data centers (C#)
+- **[DYOONI](https://github.com/Ahmed-Yaseen99/DYOONI)** — Track debts & spending, fully-featured desktop app (C#)
+- **[A3MALI](https://github.com/Ahmed-Yaseen99/A3MALI)** — Task tracking database application (C++)
+- **[License-Key-Generator](https://github.com/Ahmed-Yaseen99/License-Key-Generator)** — Generate license keys for software activation (C#)
+- **[Inno-Installer-Template](https://github.com/Ahmed-Yaseen99/Inno-Installer-Template)** — XAML template for Inno Setup installers
+
+---
+
+## 🐾 Meet Tom, My Coding Buddy!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Tom the Cat" />
+</p>
+
+*Tom sits on my keyboard while I code!*
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-yaseen-53b7a0341)
+- [PyPie Studio](https://instagram.com/pypiestudio)
+
+---
+
+## 🎯 Fun Facts
+
+- 👾 I love building both practical and fun tools, from enterprise database apps to simple games.
+- 🛡️ I enjoy designing encryption systems and software protection.
+- 🖥️ I handle everything IT — from programming to network and hardware solutions!
+- 🐱 My cat, Tom, is always "helping" me code.
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for visiting my profile! ⭐️
