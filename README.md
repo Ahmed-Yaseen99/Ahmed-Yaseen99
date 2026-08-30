@@ -42,11 +42,25 @@ I'm a senior .NET engineer and architect based in Iraq. I build desktop and web 
 
 ---
 
+## Home lab and local-first AI
+
+I'd rather run a model than rent one. My desk runs a Ryzen 7 9700X with an RTX 5060 (8GB, so I watch VRAM like a hawk) and 32GB of RAM, with WSL2 Debian and Docker Desktop on top of Windows 11. Ollama serves my local models, and I keep things offline-first: no telemetry, no cloud dependency where I can avoid it.
+
+I self-host the boring-but-useful layer too, a personal memory service and a knowledge graph, plus a text-to-speech voice I cloned for narrating videos. When a tool wants to phone home, I usually replace it.
+
+---
+
+## Making things
+
+Outside client work I put out short AI, LLM, and cybersecurity explainers for Reels, TikTok, and YouTube Shorts. The pipeline is fully local: write the script, generate the narration with my cloned voice, and cut it together with OpenMontage. No paid cloud, no usage bills.
+
+I also keep my Windows install stripped down and telemetry-free. Less bloat means more RAM for models, and I like knowing my data stays in the room.
+
+---
+
 ## Off the clock
 
-I'm into cybersecurity and OSINT as a hands-on hobby, not just theory. I like building PCs, running my own servers, and keeping my Windows install lean and telemetry-free. I'd rather self-host than subscribe, and I'd rather run a model locally than send my data to someone's cloud.
-
-My home lab runs on a Ryzen 7 9700X with an RTX 5060, WSL2 Debian, and Docker Desktop. It's where I break things, test local LLMs, and figure out what actually works.
+I'm into cybersecurity and OSINT as a hands-on hobby, not just theory. I like building PCs, running my own servers, and occasionally strapping on a Meta Quest 3s to unwind. If it involves a home lab or an LLM, I'm probably already halfway through installing it.
 
 ---
 
