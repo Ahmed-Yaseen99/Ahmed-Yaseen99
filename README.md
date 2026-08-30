@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed ðŸ‘‹ (most people call me Tryku)
+# Hi, I'm Ahmed 👋 (most people call me Tryku)
 
 I'm a senior .NET engineer and architect based in Iraq. I build desktop and web apps in C# and .NET, and I run a small but serious local AI and home-lab setup on the side. If it's practical, runs locally, and doesn't phone home, I'm probably into it.
 
@@ -28,15 +28,15 @@ I'm a senior .NET engineer and architect based in Iraq. I build desktop and web 
 
 ## Projects I'm proud of
 
-- **[A3MALI](https://github.com/Ahmed-Yaseen99/A3MALI)** â€” my main enterprise system: employee task and performance tracking, built on .NET 10 with ASP.NET Core, Blazor, and Avalonia.
-- **[NodeRadar-Pro](https://github.com/Ahmed-Yaseen99/NodeRadar-Pro)** â€” the "ultimate network IT app" for controlling and monitoring network nodes.
-- **[IP-Manager](https://github.com/Ahmed-Yaseen99/IP-Manager)** â€” IP and device management for networks and data centers.
-- **[MA3HDI-V2](https://github.com/Ahmed-Yaseen99/MA3HDI-V2)** / **[Jedawly](https://github.com/Ahmed-Yaseen99/Jedawly)** â€” school and institute database management with scheduling.
-- **[DYOONI](https://github.com/Ahmed-Yaseen99/DYOONI)** â€” desktop app for tracking debts and spending.
-- **[youtube-media-control](https://github.com/Ahmed-Yaseen99/youtube-media-control)** â€” my first public repo: control YouTube and any media through global Windows media keys, built for AI agents to drive.
-- **[ik_llama.cpp](https://github.com/Ahmed-Yaseen99/ik_llama.cpp)** â€” a llama.cpp fork with extra SOTA quantizations and performance work.
-- **[PyPie-Browser](https://github.com/Ahmed-Yaseen99/PyPie-Browser)** â€” a lightweight, private browser.
-- **[License-Management](https://github.com/Ahmed-Yaseen99/License-Management)** â€” license backend for all PyPie Studio products.
+- **[A3MALI](https://github.com/Ahmed-Yaseen99/A3MALI)** - my main enterprise system: employee task and performance tracking, built on .NET 10 with ASP.NET Core, Blazor, and Avalonia.
+- **[NodeRadar-Pro](https://github.com/Ahmed-Yaseen99/NodeRadar-Pro)** - the "ultimate network IT app" for controlling and monitoring network nodes.
+- **[IP-Manager](https://github.com/Ahmed-Yaseen99/IP-Manager)** - IP and device management for networks and data centers.
+- **[MA3HDI-V2](https://github.com/Ahmed-Yaseen99/MA3HDI-V2)** / **[Jedawly](https://github.com/Ahmed-Yaseen99/Jedawly)** - school and institute database management with scheduling.
+- **[DYOONI](https://github.com/Ahmed-Yaseen99/DYOONI)** - desktop app for tracking debts and spending.
+- **[youtube-media-control](https://github.com/Ahmed-Yaseen99/youtube-media-control)** - my first public repo: control YouTube and any media through global Windows media keys, built for AI agents to drive.
+- **[ik_llama.cpp](https://github.com/Ahmed-Yaseen99/ik_llama.cpp)** - a llama.cpp fork with extra SOTA quantizations and performance work.
+- **[PyPie-Browser](https://github.com/Ahmed-Yaseen99/PyPie-Browser)** - a lightweight, private browser.
+- **[License-Management](https://github.com/Ahmed-Yaseen99/License-Management)** - license backend for all PyPie Studio products.
 
 (There are a few `-Legacy` repos floating around too. They're exactly what they sound like.)
 
