@@ -1,79 +1,58 @@
-# 👋 Hello, I'm Ahmed-Yaseen99!
+# Hi, I'm Ahmed ðŸ‘‹ (most people call me Tryku)
 
-Welcome to my GitHub profile! I’m a passionate Computer Engineer and a professional GUI Desktop Applications Developer, specializing in robust, user-friendly software solutions.
-
----
-
-## 💼 About Me
-
-- 🖥️ **Profession:** Computer Engineer & IT Specialist  
-- 👨‍💻 **Role:** GUI Desktop Apps Developer, IT Solutions/ISP Engineer  
-- 🏢 **Founder:** [PyPie Studio](https://instagram.com/pypiestudio) — My own software programming company  
-- 🏢 **Work:** IT Solutions & Internet Provider Company  
-- 🌐 **Location:** Iraq
+I'm a senior .NET engineer and architect based in Iraq. I build desktop and web apps in C# and .NET, and I run a small but serious local AI and home-lab setup on the side. If it's practical, runs locally, and doesn't phone home, I'm probably into it.
 
 ---
 
-## 🛠️ Tech Stack
+## What I do
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiteDB-4C8CBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+- Build business software: database apps, task and employee tracking, school and clinic management systems, IP/network tooling.
+- Work across the .NET stack: **C#**, **.NET 10**, **ASP.NET Core**, **Blazor**, **Avalonia UI**, and older **WinForms** when a job calls for it.
+- Run my own software label, **PyPie Studio**, where I ship the tools I build.
+- Tinker with a local LLM stack (Ollama, self-hosted models) and a Docker + WSL2 home lab on Windows 11.
 
 ---
 
-## 🚀 What I Build
+## Tech I reach for
 
-- 🗃️ **Database Management Systems** for schools, clinics, and businesses  
-- 🔑 **License Key Generators** & software activation tools  
-- 🖱️ **GUI Desktop Apps** (Windows, C#/C++/CLI/.NET/WinForms)  
-- 🌐 **Websites** with Blazor, C#, HTML & CSS  
-- 🧩 **Console Tools:** Calculators, Receipt Systems, Games, and more
-
----
-
-## 🌟 Project Highlights
-
-- **[MA3HDI-V2](https://github.com/Ahmed-Yaseen99/MA3HDI-V2)** — New generation school/teaching institute database management software (C#)
-- **[IP-Manager](https://github.com/Ahmed-Yaseen99/IP-Manager)** — IP management for network devices & data centers (C#)
-- **[DYOONI](https://github.com/Ahmed-Yaseen99/DYOONI)** — Track debts & spending, fully-featured desktop app (C#)
-- **[A3MALI](https://github.com/Ahmed-Yaseen99/A3MALI)** — Task tracking database application (C++)
-- **[License-Key-Generator](https://github.com/Ahmed-Yaseen99/License-Key-Generator)** — Generate license keys for software activation (C#)
-- **[Inno-Installer-Template](https://github.com/Ahmed-Yaseen99/Inno-Installer-Template)** — XAML template for Inno Setup installers
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia%20UI-4C8BF5?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🐾 Meet Tom, My Coding Buddy!
+## Projects I'm proud of
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Tom the Cat" />
-</p>
+- **[A3MALI](https://github.com/Ahmed-Yaseen99/A3MALI)** â€” my main enterprise system: employee task and performance tracking, built on .NET 10 with ASP.NET Core, Blazor, and Avalonia.
+- **[NodeRadar-Pro](https://github.com/Ahmed-Yaseen99/NodeRadar-Pro)** â€” the "ultimate network IT app" for controlling and monitoring network nodes.
+- **[IP-Manager](https://github.com/Ahmed-Yaseen99/IP-Manager)** â€” IP and device management for networks and data centers.
+- **[MA3HDI-V2](https://github.com/Ahmed-Yaseen99/MA3HDI-V2)** / **[Jedawly](https://github.com/Ahmed-Yaseen99/Jedawly)** â€” school and institute database management with scheduling.
+- **[DYOONI](https://github.com/Ahmed-Yaseen99/DYOONI)** â€” desktop app for tracking debts and spending.
+- **[youtube-media-control](https://github.com/Ahmed-Yaseen99/youtube-media-control)** â€” my first public repo: control YouTube and any media through global Windows media keys, built for AI agents to drive.
+- **[ik_llama.cpp](https://github.com/Ahmed-Yaseen99/ik_llama.cpp)** â€” a llama.cpp fork with extra SOTA quantizations and performance work.
+- **[PyPie-Browser](https://github.com/Ahmed-Yaseen99/PyPie-Browser)** â€” a lightweight, private browser.
+- **[License-Management](https://github.com/Ahmed-Yaseen99/License-Management)** â€” license backend for all PyPie Studio products.
 
-*Tom sits on my keyboard while I code!*
+(There are a few `-Legacy` repos floating around too. They're exactly what they sound like.)
 
 ---
 
-## 📫 Connect With Me
+## Off the clock
 
-- [LinkedIn](https://www.linkedin.com/in/ahmed-yaseen-53b7a0341)
-- [PyPie Studio](https://instagram.com/pypiestudio)
+I'm into cybersecurity and OSINT as a hands-on hobby, not just theory. I like building PCs, running my own servers, and keeping my Windows install lean and telemetry-free. I'd rather self-host than subscribe, and I'd rather run a model locally than send my data to someone's cloud.
+
+My home lab runs on a Ryzen 7 9700X with an RTX 5060, WSL2 Debian, and Docker Desktop. It's where I break things, test local LLMs, and figure out what actually works.
 
 ---
 
-## 🎯 Fun Facts
+## Say hi
 
-- 👾 I love building both practical and fun tools, from enterprise database apps to simple games.
-- 🛡️ I enjoy designing encryption systems and software protection.
-- 🖥️ I handle everything IT — from programming to network and hardware solutions!
-- 🐱 My cat, Tom, is always "helping" me code.
+- LinkedIn: [ahmed-yaseen-53b7a0341](https://www.linkedin.com/in/ahmed-yaseen-53b7a0341)
+- PyPie Studio: [@pypiestudio](https://instagram.com/pypiestudio)
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for visiting my profile! ⭐️
+And yes, my cat Tom still sits on the keyboard while I code. Some things don't change.
