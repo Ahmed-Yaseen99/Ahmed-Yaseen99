@@ -7,9 +7,9 @@ I'm a senior .NET engineer and architect based in Iraq. I build desktop and web 
 ## What I do
 
 - Build business software: database apps, task and employee tracking, school and clinic management systems, IP/network tooling.
-- Work across the .NET stack: **C#**, **.NET 10**, **ASP.NET Core**, **Blazor**, **Avalonia UI**, and older **WinForms** when a job calls for it.
-- Run my own software label, **PyPie Studio**, where I ship the tools I build.
-- Tinker with a local LLM stack (llama.cpp, self-hosted models) and a Docker + WSL2 home lab on Windows 11.
+- Work across the .NET stack: **C#**, **.NET 10**, **ASP.NET Core**, **Blazor** **Avalonia UI**, and older **WinForms** when a job calls for it.
+- Run my own software label: **[PyPie Studio](https://github.com/PyPie-Studio)** where I ship the tools I build.
+- Tinker with a local LLM stack: (llama.cpp, self-hosted models) and a Docker + WSL2 home lab on Windows 11.
 
 ---
 
@@ -29,7 +29,7 @@ I'm a senior .NET engineer and architect based in Iraq. I build desktop and web 
 ## Projects I'm proud of
 
 - **[A3MALI](https://github.com/Ahmed-Yaseen99/A3MALI)** - my main enterprise system: employee task and performance tracking, built on .NET 10 with ASP.NET Core, Blazor, and Avalonia.
-- **[NodeRadar-Pro](https://github.com/Ahmed-Yaseen99/NodeRadar-Pro)** - the "ultimate network IT app" for controlling and monitoring network and data centers.
+- **[NodeRadar-Pro](https://github.com/PyPie-Studio/NodeRadar-Pro)** - the "ultimate network IT app" for controlling and monitoring network and data centers.
 - **[IP-Manager](https://github.com/Ahmed-Yaseen99/IP-Manager)** - IP and device management for networks and data centers.
 - **[MA3HDI-V2](https://github.com/Ahmed-Yaseen99/MA3HDI-V2)** / **[Jedawly](https://github.com/Ahmed-Yaseen99/Jedawly)** - school and institute database management with scheduling.
 - **[DYOONI](https://github.com/Ahmed-Yaseen99/DYOONI)** - desktop app for tracking debts and spending.
